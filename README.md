@@ -3,7 +3,7 @@
 
 # NIC
 
-
+藉由開啟終端機，並輸
 
 # MAC Frame Format
 
