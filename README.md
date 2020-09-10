@@ -27,7 +27,7 @@ PC C 擁有兩片 NIC, 假設為 NIC-c4 與 NIC-c5
 實際線路串連方式，如下：
 
 
-         PC-A  NIC-a1 -----(hub)-------  NIC-b2  PC-B  NIC-b3   ------(sw)------  NIC-c4   PC-C
+         PC-A  NIC-a1 -----(hub/sw)-------  NIC-b2  PC-B  NIC-b3   ------(sw/hub)------  NIC-c4   PC-C
          
 傳輸路徑解析：
 
