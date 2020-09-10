@@ -3,7 +3,7 @@
 
 # NIC
 
-藉由開啟終端機，並輸入 ifconfig，
+藉由開啟終端機，並輸入 ifconfig，結果能顯示啟用的所有網卡，啟用的網卡都會產生路由。
 
 # MAC Frame Format
 
