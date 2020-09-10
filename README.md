@@ -29,6 +29,12 @@ PC C 擁有兩片 NIC, 假設為 NIC-c4 與 NIC-c5
 
          PC-A  NIC-a1 -----(hub)-------  NIC-b2  PC-B  NIC-b3   ------(sw)------  NIC-c4   PC-C
          
+傳輸路徑解析：
+
+PC-A 與 PC-C 之間通訊，要通過 PC-B，基於實體線路與實體 Hub 和 Swithcer 阜(網孔)的關係。
+而 PC-A 與 PC-B 之間的 frame 來源為 NIC-a1, 目的地為 NIC-b2。
+而 PC-B 與 PC-C 之間的 frame 來源為 NIC-b3, 目的地為 NIC-c4。
+         
          
          
          
