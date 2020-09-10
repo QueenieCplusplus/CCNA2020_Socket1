@@ -17,10 +17,20 @@
 實際的傳輸方式，解析如下：
 
 
-PC A 擁有兩片 NIC, 假設為 NIC-a1 與 NIC-a2
+PC A 擁有兩片 NIC, 假設為 NIC-a1 與 NIC-a0
 
-PC B 擁有兩片 NIC, 假設為 NIC-b1 與 NIC-b2
+PC B 擁有兩片 NIC, 假設為 NIC-b3 與 NIC-b2
 
-PC C 擁有兩片 NIC, 假設為 NIC-c1 與 NIC-c2
+PC C 擁有兩片 NIC, 假設為 NIC-c4 與 NIC-c5
+
+
+實際線路串連方式，如下：
+
+
+         PC-A  NIC-a1 -----(hub)-------  NIC-b2  PC-B  NIC-b3   ------(sw)------  NIC-c4   PC-C
+         
+         
+         
+         
 
 
