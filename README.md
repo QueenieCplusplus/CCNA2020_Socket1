@@ -2,6 +2,8 @@
 不同主機在同一網路間的通訊 
 內文中有部分參考了鳥哥的私房菜，再次感謝九年前他的文獻，讓我解惑許多～～～謝謝鳥哥～
 
+![bird bro](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_Socket1/master/鳥哥.png)
+
 # NIC
 
              $ifconfig
