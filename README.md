@@ -4,7 +4,7 @@
 # NIC
 
 藉由開啟終端機，並輸入 ifconfig，結果能顯示啟用的所有網卡，啟用的網卡都會產生路由。
-我的蘋果電腦顯示有四個網卡。其中兩張 inactive，另外兩張
+我的蘋果電腦顯示有四個網卡。其中兩張 inactive，另外兩張的狀態顯示為 active
 
 # MAC Frame Format
 
